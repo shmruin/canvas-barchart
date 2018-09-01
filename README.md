@@ -1,2 +1,4 @@
 # canvas-barchart
-Following Code of Udemy Canvas Bar Chart Creator
+Following code of udemy Canvas Bar Chart creator
+
+For practicing Html5 Canvas.
