@@ -14,7 +14,7 @@ Lightweight, configurable and simple bar chart library in Javascript
 Download the `bar.js` and include it in your project
 
 ```html
-<script src="bar.js"?</script>
+<script src="bar.js"></script>
 ```
 
 ## Usage
